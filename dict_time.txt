@@ -1,0 +1,42 @@
+time-время
+present-настоящее
+past-прошлое
+future-будущее
+day-день
+week-неделя
+month-месяц
+year-год
+century-век
+season-сезон
+autumn-осень
+winter-зима
+spring-весна
+summer-лето
+morning-утро
+noon-полдень
+afternoon-время после полудня
+midday-середина дня /полдень
+evening-вечер
+night-ночь
+midnight-полночь
+moment-мгновение
+second-секунда
+minute-минута
+hour-час
+now-сейчас
+never-никогда
+forever-навсегда
+often-часто
+seldom -едко
+sometimes-иногда
+soon-скоро
+always-всегда
+already-уже
+yet-еще
+usually-обычно
+after-после
+today-сегодня
+yesterday-вчера
+tomorrow-завтра
+tonight-этим вечером
+late-поздно
